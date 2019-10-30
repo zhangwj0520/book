@@ -1,0 +1,28 @@
+{
+
+    "title": "张为杰Blog",
+    "author": "张为杰",
+    "description": "select * from learn",
+    "language" : "zh-hans",
+    "gitbook": "3.2.3",
+    "links" : {
+        "sidebar" : {
+            "链接1" : "https://www.baidu.com",
+            "链接2" : "https://www.baidu.com"
+        }
+    },
+    "styles": {
+        "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+        "pdf": "styles/pdf.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+    },
+    "plugins": [
+        "-sharing",
+        "code",
+        "copy-code-button",
+        "back-to-top-button",
+        "chapter-fold"
+    ]
+}
