@@ -23,6 +23,47 @@
         "code",
         "copy-code-button",
         "back-to-top-button",
-        "chapter-fold"
-    ]
+        "chapter-fold",
+        "todo",
+        "insert-logo",
+        "-lunr", 
+        "-search", 
+        "search-pro",
+        "advanced-emoji",
+        "github",
+        "emphasize",
+        "splitter",
+        "tbfed-pagefooter",
+        "sectionx",
+        "include-csv",
+        "lightbox",
+        "donate"
+    ],
+    "pluginsConfig": {
+        "insert-logo": {
+          "url": "images/favicon.png",
+          "style": "background: none; max-height: 30px; min-height: 30px"
+        },
+        "github": {
+            "url": "https://github.com/zhangwj0520"
+        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy zhangweijie 2019",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "page-treeview": {
+            "copyright": "Copyright &#169; aleen42",
+            "minHeaderCount": "2",
+            "minHeaderDeep": "2"
+        },
+        "donate": {
+            "wechat": "images/wechatPay.jpg",
+            "alipay": "images/alipay.jpg",
+            "title": "",
+            "button": "赏",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
+        }
+      }
 }
