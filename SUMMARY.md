@@ -6,6 +6,10 @@
 * [一 配置](docs/gitbook/book-json.md)
 * [二 插件](docs/gitbook/plugins.md)
 
+## JavaScript
+* [一 其他](docs/JavaScript/module.md)
+* [二 ES6](docs/JavaScript/es6.md)
+
 ## Flutter
 
 * [第一章：起步](docs/flutter/chapter1/index.md)
