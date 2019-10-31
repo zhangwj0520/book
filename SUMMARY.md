@@ -7,8 +7,10 @@
 * [二 插件](docs/gitbook/plugins.md)
 
 ## JavaScript
-* [一 其他](docs/JavaScript/module.md)
-* [二 ES6](docs/JavaScript/es6.md)
+* [第一章 基础](docs/JavaScript/chapter1/index.md)
+  * [1.1 模块](docs/JavaScript/chapter1/module.md)
+  * [1.2 浏览器](docs/JavaScript/chapter1/browser.md)
+* [第二章 ES6](docs/JavaScript/es6.md)
 
 ## Flutter
 
